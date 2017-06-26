@@ -11,5 +11,5 @@ Released under a [BSD license](http://kohanaframework.org/license), Kohana can b
 - 输入、输出
 - Controller继承封装
 - 异常处理(错误码)
-持续更行中。。。
+- 持续更新中。。。
 
